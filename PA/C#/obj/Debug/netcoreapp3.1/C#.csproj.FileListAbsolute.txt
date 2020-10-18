@@ -1,0 +1,12 @@
+/Users/leandrodbdias/Desktop/Aula/PA/C#/bin/Debug/netcoreapp3.1/C#.deps.json
+/Users/leandrodbdias/Desktop/Aula/PA/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.json
+/Users/leandrodbdias/Desktop/Aula/PA/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.dev.json
+/Users/leandrodbdias/Desktop/Aula/PA/C#/bin/Debug/netcoreapp3.1/C#.dll
+/Users/leandrodbdias/Desktop/Aula/PA/C#/bin/Debug/netcoreapp3.1/C#.pdb
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.csprojAssemblyReference.cache
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfoInputs.cache
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfo.cs
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.csproj.CoreCompileInputs.cache
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.dll
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.pdb
+/Users/leandrodbdias/Desktop/Aula/PA/C#/obj/Debug/netcoreapp3.1/C#.genruntimeconfig.cache

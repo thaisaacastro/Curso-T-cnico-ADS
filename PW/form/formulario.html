@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="formulario.css">
+  <title>Formulário</title>
+</head>
+
+<body> <div class="box">  
+  <form method=post id="formulario" action="enviado.html">
+
+    <h1>Formulário de Cadastro de Clientes</h1>
+    <label>
+    <span>Nome Completo:</span>
+    <input type="text" class="input_text" name="nome" id="name">
+    </label>
+
+    <label>
+    <span>Endereço...........:</span>
+    <input type="text" class="input_text" name="endereco" id="endereco">
+  </label>
+    
+    <label >
+    <span>Bairro................:</span>
+    <input type="text" class="input_text" name="bairro" id="bairro">
+  </label>
+       
+    <label>
+    <span>E-mail...............:</span>
+    <input type="text" class="input_text" name="email" id="email">
+  </label>
+    
+    <label>
+    <span>Estado...............:</span>
+    <select name="uf" id="uf">
+      <option value="RJ">Rio de Janeiro</option>
+      <option value="SP">São Paulo</option>
+      <option value="MG">Minas Gerais</option>
+      <option value="ES">Espírito Santo</option>
+    </select>
+  </label>
+
+    <label>
+    <span>Selecione o Sexo:</span>
+    <input type="radio" name="sexo" value="M">Masculino
+    <input type="radio" name="sexo" value="F">Feminino
+  </label>
+
+    <label>
+    <span>Selecione o Sexo:</span>
+    <input type="checkbox" name="bike">Bicicleta
+    <input type="checkbox" name="bus">Ônibus
+    <input type="checkbox" name="automobile">Automóvel
+  </label>
+
+    <label>
+    <span>Mensagem:.................</span>
+    <textarea class="message" name="message" id="message">Digite uma mensagem</textarea>
+   </label>
+<label>
+  
+    <input type="submit" class="button" value="Enviar">
+    <input type="reset" class="button" value="Limpar">
+  </label>
+  </div>
+  </form>
+</body>
+
+</html>
